@@ -1,0 +1,6 @@
+{
+  "name": "SoloSale",
+  "description": "Sales, Billing, Inventory, Customer, and Purchase Management app for businesses in Nepal with NPR support and offline Room database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
